@@ -1,0 +1,13 @@
+Title: Cybersecurity
+Introduction:
+Cybersecurity involves protecting systems, networks, and programs from digital attacks. It is critical in safeguarding sensitive information and ensuring business continuity.
+
+Core Topics:
+1. Types of Cyber Threats: Malware, Phishing, Ransomware
+2. Network Security and Firewalls
+3. Encryption and Cryptography
+4. Risk Assessment and Management
+5. Incident Response and Recovery
+
+Applications:
+Cybersecurity measures are essential in industries such as banking, e-commerce, healthcare, and government to prevent data breaches and financial losses.

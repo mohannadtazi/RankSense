@@ -1,0 +1,10 @@
+transformers
+torch
+sentence-transformers
+scikit-learn
+streamlit
+gym
+stable_baselines3
+shimmy>=2.0
+plotly
+streamlit-option-menu

@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Mathematics Overview",
+        "content": "Mathematics is the study of numbers, shapes, and patterns. It is used in a wide range of fields including engineering, economics, and physics."
+    },
+    {
+        "title": "Physics Overview",
+        "content": "Physics is the branch of science concerned with the nature and properties of matter and energy. It includes subjects like mechanics, thermodynamics, and electromagnetism."
+    },
+    {
+        "title": "Computer Science Overview",
+        "content": "Computer Science deals with the study of algorithms, data structures, programming languages, and software development."
+    },
+    {
+        "title": "History Overview",
+        "content": "History is the study of past events, particularly in human affairs. It helps us understand the progression of civilization over time."
+    },
+    {
+        "title": "Literature Overview",
+        "content": "Literature refers to written works, especially those considered of superior or lasting artistic merit. It includes novels, poems, plays, and short stories."
+    },
+    {
+        "title": "Biology Overview",
+        "content": "Biology is the study of living organisms, divided into many specialized fields such as genetics, ecology, and physiology."
+    },
+    {
+        "title": "Chemistry Overview",
+        "content": "Chemistry is the branch of science that studies the composition, structure, properties, and changes of matter."
+    },
+    {
+        "title": "Art Overview",
+        "content": "Art includes visual arts, such as painting and sculpture, as well as performing arts, such as theater and music. It expresses human creativity."
+    },
+    {
+        "title": "Economics Overview",
+        "content": "Economics is the social science that studies the production, distribution, and consumption of goods and services."
+    },
+    {
+        "title": "Philosophy Overview",
+        "content": "Philosophy is the study of fundamental questions regarding existence, reason, knowledge, and ethics. It explores various schools of thought."
+    }
+]
