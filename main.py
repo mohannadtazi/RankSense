@@ -20,7 +20,7 @@ def search_1(query, documents):
     # Encode the query to obtain its embedding
     query_embedding = model.encode([query])[0]
 
-    # Extract precomputed embeddings from the documents
+   
     doc_embeddings = model.encode([doc['content'] for doc in documents])
 
     # Compute cosine similarities between the query and the document embeddings
